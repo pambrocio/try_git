@@ -3,6 +3,3 @@ Changes
 change 2
 
 Git prevent changes
-
-another change
-
